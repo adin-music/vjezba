@@ -1,0 +1,14 @@
+# Log fajlovi
+*.log
+
+# Environment fajlovi sa osjetljivim podacima
+.env
+.env.local
+.env.*.local
+
+# Windows sistem
+Thumbs.db
+desktop.ini
+
+# macOS sistem
+.DS_Store
