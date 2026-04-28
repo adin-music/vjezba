@@ -26,3 +26,7 @@ Platforma za centralizovano upravljanje pametnim kućnim uređajima koja omoguć
 
 Sistem omogućava korisnicima da automatizuju svoj dom kroz scenarije (npr. "Dobro jutro" pali svjetla i pušta muziku). Aplikacija nudi i mobilnu podršku te podržava integraciju sa različitim IoT uređajima poput Philips Hue, Xiaomi i Nest termostata. Cilj je smanjiti potrošnju energije do 30% kroz pametno planiranje i analitiku.
 
+## Buduće nadogradnje
+- Mobilna aplikacija za iOS i Android
+- AI asistent za predikciju potrošnje
+- Integracija sa glasovnim asistentima (Alexa, Google Assistant)
